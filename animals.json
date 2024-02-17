@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Fluffy",
+        "spicies": "cat",
+        "favFood": "tuna"
+    },
+    {
+        "name": "Ruffy",
+        "spicies": "dog",
+        "favFood": "bones"
+    },
+    {
+        "name": "Jessy",
+        "spicies": "mouse",
+        "favFood": "cheese"
+    }
+]
